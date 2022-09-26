@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/cocoapods/l/UIXFetchedResultsTableCoordinator.svg?style=flat)](http://cocoadocs.org/docsets/UIXFetchedResultsTableCoordinator)
 [![Platform](https://img.shields.io/cocoapods/p/UIXFetchedResultsTableCoordinator.svg?style=flat)](http://cocoadocs.org/docsets/UIXFetchedResultsTableCoordinator)
 
+#No longer maintained
+
 ## Usage
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
