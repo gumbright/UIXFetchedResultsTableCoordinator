@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/cocoapods/l/UIXFetchedResultsTableCoordinator.svg?style=flat)](http://cocoadocs.org/docsets/UIXFetchedResultsTableCoordinator)
 [![Platform](https://img.shields.io/cocoapods/p/UIXFetchedResultsTableCoordinator.svg?style=flat)](http://cocoadocs.org/docsets/UIXFetchedResultsTableCoordinator)
 
-#No longer maintained
+# No longer maintained
 
 ## Usage
 
