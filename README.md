@@ -7,6 +7,7 @@
 
 # No longer maintained
 
+Swift version of UCFetchedResultTableCoordinator is in [UCLib](https://github.com/gumbright/UCLib)
 ## Usage
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
